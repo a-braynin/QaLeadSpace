@@ -1,66 +1,41 @@
 {
   "main": {
-    "id": "c04080915956da62",
+    "id": "fed53f931cdb9997",
     "type": "split",
     "children": [
       {
-        "id": "a6049a4d638e1a46",
+        "id": "cfb32c8191ca018e",
         "type": "tabs",
         "children": [
           {
-            "id": "654273b6e8284da1",
+            "id": "900d0a7f7e8f9ec8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Добро пожаловать.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Добро пожаловать"
-            }
-          },
-          {
-            "id": "d2d8bcd337cb0051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Работа/Новая заметка.md",
+                "file": "QALead/Работа/Новая заметка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Новая заметка"
             }
-          },
-          {
-            "id": "3b0bb4dc9ca21a8c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "225103838926230f",
+    "id": "df9eb94e0069dd82",
     "type": "split",
     "children": [
       {
-        "id": "a2b250f6a098d5b2",
+        "id": "2520dcb27528a415",
         "type": "tabs",
         "children": [
           {
-            "id": "a6eb2c2faf10f60c",
+            "id": "940f5458e4d17729",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,7 +47,7 @@
             }
           },
           {
-            "id": "fcfc7bfc8ef1e49a",
+            "id": "2e02060f9d55d35c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -89,7 +64,7 @@
             }
           },
           {
-            "id": "ba30c35d8100e4b1",
+            "id": "706c2a8de9c594e5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -102,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 351.5
   },
   "right": {
-    "id": "8abce9e23b0341c3",
+    "id": "d885da6eea6805c1",
     "type": "split",
     "children": [
       {
-        "id": "9ede61fb8e374c63",
+        "id": "2cd20ddcbb7b8c6e",
         "type": "tabs",
         "children": [
           {
-            "id": "da27d756590ae31a",
+            "id": "527022afc702b86d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа/Новая заметка.md",
+                "file": "QALead/Работа/Новая заметка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,12 +107,12 @@
             }
           },
           {
-            "id": "34842e30281c3ae8",
+            "id": "f1b516790980e5d5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа/Новая заметка.md",
+                "file": "QALead/Работа/Новая заметка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -146,7 +121,7 @@
             }
           },
           {
-            "id": "06f93304661be028",
+            "id": "131c8dbc598e1abe",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -159,19 +134,19 @@
             }
           },
           {
-            "id": "f8a540d1e5416453",
+            "id": "037460b95f1172d0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа/Новая заметка.md"
+                "file": "QALead/Работа/Новая заметка.md"
               },
               "icon": "lucide-list",
               "title": "Структура Новая заметка"
             }
           },
           {
-            "id": "b33a4baf3abbaf5e",
+            "id": "be7bf47e243c458c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -185,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +173,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2d8bcd337cb0051",
+  "active": "be7bf47e243c458c",
   "lastOpenFiles": [
-    "Добро пожаловать.md",
-    "Работа/Новая заметка.md",
-    "Работа"
+    "Добро пожаловать.md"
   ]
 }
