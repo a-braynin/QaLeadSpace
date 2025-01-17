@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Новая заметка"
             }
+          },
+          {
+            "id": "ced13e0fae431e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "План 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "План 2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QALead/Работа/Новая заметка.md",
+                "file": "План 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Новая заметка"
+              "title": "Обратные ссылки для План 2025"
             }
           },
           {
@@ -112,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QALead/Работа/Новая заметка.md",
+                "file": "План 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Новая заметка"
+              "title": "Исходящие ссылки из План 2025"
             }
           },
           {
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QALead/Работа/Новая заметка.md"
+                "file": "План 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Новая заметка"
+              "title": "Структура План 2025"
             }
           },
           {
@@ -173,8 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be7bf47e243c458c",
+  "active": "ced13e0fae431e2a",
   "lastOpenFiles": [
+    "QALead/Работа/Новая заметка.md",
+    "План 2025.md",
+    "Без названия",
     "Добро пожаловать.md"
   ]
 }
