@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QALead/Работа/План 2025.md"
+                "file": "QALead/Работа/Собес, Нияз Юсупов.md"
               },
               "icon": "lucide-list",
-              "title": "Структура План 2025"
+              "title": "Структура Собес, Нияз Юсупов"
             }
           },
           {
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
